@@ -1,3 +1,3 @@
-# react-m-table
+# react-m-list
 
 Nothing to see here yet
