@@ -1,0 +1,19 @@
+{
+  "name": "react-m-list",
+  "version": "0.1.0",
+  "description": "Nothing to see here yet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mg/react-m-list"
+  },
+  "author": "Magnús Örn Gylfason",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mg/react-m-list/issues"
+  },
+  "homepage": "https://github.com/mg/react-m-list"
+}
